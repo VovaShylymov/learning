@@ -24,6 +24,4 @@ public class Function1 { // минимум из четырёх чисел.
         System.out.println(min(-20, -10, -40, 40));
         System.out.println(min(-20, -10, -30, -40));
     }
-
-
 }
