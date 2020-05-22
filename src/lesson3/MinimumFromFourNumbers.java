@@ -1,6 +1,6 @@
 package lesson3;
 
-public class Function1 { // минимум из четырёх чисел.
+public class MinimumFromFourNumbers { // минимум из четырёх чисел.
     public static int min(int a, int b, int c, int d) { // метод min
         int z = min(a, b);//объявил перем.Z и сразу присвоили значение функции min.
         int x = min(c, d);//объявил перем.X и сразу присвоили значение функции min.

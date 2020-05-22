@@ -14,6 +14,7 @@ public class Bus { //Это зодание объекта. Класс Bus сод
     }
 
     public void showModel() {
+
         System.out.println(model);
     }
 }
