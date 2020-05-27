@@ -28,7 +28,7 @@ public class Cat {// Создали кота с именем и возрасто
         vasia.name = "Вася";
         vasia.sayMeow();
         vasia.jump();
-        count++;
+        Cat.count++; // Cat.count++;   тоже будет правильно.
 
         //System.out.println(barsic.age + " " + barsic.name);
         System.out.println("Мы создали кота по имени " + barsik.name + ", его возраст - " + barsik.age);

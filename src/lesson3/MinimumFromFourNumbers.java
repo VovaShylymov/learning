@@ -11,7 +11,7 @@ public class MinimumFromFourNumbers { // минимум из четырёх чи
     }
 
     public static int min(int a, int b) { //метод min
-        if (a < b) {  //функция метода
+        if (a < b) { //функция метода
             return a;
         } else
             return b;
